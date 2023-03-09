@@ -1,7 +1,15 @@
 {
   "name": "koishi-plugin-lan-ip",
   "description": "获取局域网 IP",
+  "contributors": [
+    "Discreater <discreater@163.com"
+  ],
   "version": "1.0.0",
+  "homepage": "https://github.com/Discreater/koishi-plugin-lan-ip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Discreater/koishi-plugin-lan-ip.git"
+  },
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -11,7 +19,7 @@
   "license": "MIT",
   "scripts": {},
   "keywords": [
-    "chatbot",
+    "tool",
     "koishi",
     "plugin"
   ],
